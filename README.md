@@ -21,7 +21,7 @@ There's this one thing that drives me nuts:
        
 After you import more than a few things it kind of explodes. And changing/adding things in some messier codebases usually ends with fingerprints all over my screen as I try to ensure everything lines up.
 
-In personal project I've started doing this little hack:
+In personal projects I've started doing this little hack:
 
     dependencies = 
        ModuleOne: "static/lib/ModuleOne"
